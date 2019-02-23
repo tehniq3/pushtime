@@ -65,8 +65,8 @@ apasarebuton1 = digitalRead(buton1);    // citiree stare buton 1
    durata1 = millis() - tpaparare1;
    Serial.print("Timp apasare buton 1 = ");
    Serial.print(durata1);
-   if (durata1 > durataapasare1) Serial.print(" < ");
-     else Serial.print(" > ");  
+     if (duratamare1 > durata1) Serial.print(" < ");
+      else Serial.print(" > ");  
    Serial.print(duratamare1);
    Serial.println("ms");
    if (durata1 > duratamare1) {   // aprinde led daca s-a depasit timpul minim
@@ -109,3 +109,4 @@ apasarebuton2 = digitalRead(buton2);    // citiree stare buton 1
   }       
    return durataapasare2;  // iesire din subrutina si memorare timp
 }
+

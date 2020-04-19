@@ -9,7 +9,7 @@ https://nicuflorica.blogspot.com/2019/02/masurare-timpi-apasare-butoane-folosinf
 
 http://nicuflorica.blogspot.com/2020/04/indicare-apasare-buton-apasare-scurta.html
 
-![new](https://1.bp.blogspot.com/-k1PJYjDQHYE/XpwPZtxDewI/AAAAAAAAcEY/j8OEO7YsgagK-1RnYBXjbG8ZdVyWHdoNACLcBGAsYHQ/s1600/schematic1.png)
+![new](https://1.bp.blogspot.com/-k1PJYjDQHYE/XpwPZtxDewI/AAAAAAAAcEY/j8OEO7YsgagK-1RnYBXjbG8ZdVyWHdoNACLcBGAsYHQ/s200/schematic1.png)
 
 ![nopush](https://1.bp.blogspot.com/--UPHeYE-PGs/XpwPLcXJdBI/AAAAAAAAcEU/sbdUryzjS_s8BLTQzjPWcphJrMg6izc2gCLcBGAsYHQ/s200/neapasat.jpg)
 ![shortpush](https://1.bp.blogspot.com/-QwE8O_ykiwY/XpwP4YYe6FI/AAAAAAAAcEk/rJ7QtbM-pxwPHkiobN3_Yf5Chncb724VQCLcBGAsYHQ/s200/apasare_scurta.jpg)
